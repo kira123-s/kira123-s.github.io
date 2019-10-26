@@ -1,0 +1,10 @@
+body{
+
+color:blueviolet
+}
+img{
+width: 100%;
+}
+.navtop li{
+    display: inline;
+}
