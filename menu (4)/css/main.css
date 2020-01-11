@@ -1,9 +1,10 @@
 p {
-  color:black
+  color: #0051a6;
 }
 h5 {
-  color: rgb(12, 123, 250);
+  color: #007dff;
 }
-img {
-  width: 100%;
+
+h1 {
+  color: #02454e;
 }
